@@ -25,7 +25,7 @@ This Ansible playbook automates the process of creating a new Linux user, settin
 
 
 
-# 🛠️ part02-update-linux: This Ansible playbook automates the update process for Linux systems (Debian/Ubuntu and RedHat/CentOS-based). It ensures that all packages are upgraded using the appropriate package manager (`apt`, `yum`, or `dnf`), depending on the system.
+# 🛠️ part02-update-linux: This Ansible playbook automates the update process for Linux systems (Debian/Ubuntu and RedHat/CentOS-based). I
 
 ---
 
