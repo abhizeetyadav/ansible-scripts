@@ -12,5 +12,4 @@ This Ansible playbook automates the update process for Linux systems (Debian/Ubu
 
 ---
 
-## 📁 Folder Structure
 
