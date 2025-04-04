@@ -1,4 +1,4 @@
-# 🛠️ part01-create-user: Linux User Creation and Update Automation with Ansible
+# 🛠️ part01-create-user: Linux User Creation with Ansible
 
 
 # 👤 User Creation with Ansible
